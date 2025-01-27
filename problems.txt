@@ -1,6 +1,6 @@
-[440] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  440-0.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1,2}$$   | $$ \; \rm{2,3}$$   | $$ \; \rm{1,3}$$  |  $$ \; \rm{2,4}$$  | $$ \; \rm{1,4}$$  |  5  |  440.mp3 |   "$$ \blacktriangleright $$", |  440-a.jpg
-[441] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  441-0.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1,2}$$   | $$ \; \rm{2,4}$$   | $$ \; \rm{1,3}$$  |  $$ \; \rm{3,5}$$  | $$ \; \rm{2,5}$$  |  5  |  441.mp3 |   "$$ \blacktriangleright $$", |  441-a.jpg
-[442] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  442-0.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1개}$$   | $$ \; \rm{2개}$$   | $$ \; \rm{3개}$$  |  $$ \; \rm{4개}$$  | $$ \; \rm{5개}$$  |  2  |  442.mp3 |   "$$ \blacktriangleright $$", |  442-a.jpg
+[440] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  440-c.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1,2}$$   | $$ \; \rm{2,3}$$   | $$ \; \rm{1,3}$$  |  $$ \; \rm{2,4}$$  | $$ \; \rm{1,4}$$  |  5  |  440.mp3 |   "$$ \blacktriangleright $$", |  440-a.jpg
+[441] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  441-c.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1,2}$$   | $$ \; \rm{2,4}$$   | $$ \; \rm{1,3}$$  |  $$ \; \rm{3,5}$$  | $$ \; \rm{2,5}$$  |  5  |  441.mp3 |   "$$ \blacktriangleright $$", |  441-a.jpg
+[442] [유형쎈:중2-1:04일차부등식의풀이]Select a correct answer. |  442-c.jpg       |     https://blog.naver.com/chulsook     |  $$ \; \rm{1개}$$   | $$ \; \rm{2개}$$   | $$ \; \rm{3개}$$  |  $$ \; \rm{4개}$$  | $$ \; \rm{5개}$$  |  2  |  442.mp3 |   "$$ \blacktriangleright $$", |  442-a.jpg
 
 
 
